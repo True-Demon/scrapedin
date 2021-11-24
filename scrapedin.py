@@ -6,6 +6,7 @@ import csv
 import os
 import getpass
 import logging
+import platform
 import time
 
 try:
